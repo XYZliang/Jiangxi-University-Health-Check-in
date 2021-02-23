@@ -22,4 +22,4 @@ jobs:
           php-version: '7.2'
       - name: Run
         run: |
-          php run
+          php Singleton.php
